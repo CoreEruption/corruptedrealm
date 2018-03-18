@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/CoreEruption/corruptedrealm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>The Corrupted Realm</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<div class="jumbotron">
+		<div class="container">
+			<h1>The Corrupted Realm</h1>
+			<p>Welcome to the corrupted realm website! The Corrupted Realm is a text-based adventure game created in Batch. The Corrupted Realm is developed by John Spahr. It is Windows specific, as it is a Windows Batch file. Here, you can find all of the latest and greatest Corrupted Realm news!</p>
+			<p><a href="https://drive.google.com/drive/folders/11NeAqkagx8HMqoUXgfgBIIWpF2g5bJ7Q">Click here to download the demo.</a></p>
+		</div>
+	</div>
+			
+			
+	<div>
+		<h3>Install Instructions</h3>
+		<p>First, click on the link. Next, click on the Batch file. Allow it download, and run the file. Don't worry, you can allow it to run. On Windows 10, you will have to press the "more info" button. Then click the "run anyways" button. Congratulations! You are ready to play the game!</p>
+	</div>
+	
+	
+	<div>
+		<h3>Latest News</h3>
+		<p>The new website has been created! It was mostly coded in HTML and pasted into Weebly. It is taking shape. You can download the demo using Google Drive, and easily check out all of the latest news! Be sure to come back soon! I plan to add many more cool things!</p>
+		<p>Copyright 2018 John Spahr and Core Eruption Studios</p>
+	</div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoreEruption/corruptedrealm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		
